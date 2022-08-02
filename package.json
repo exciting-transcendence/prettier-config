@@ -1,0 +1,15 @@
+{
+  "name": "@scarf005/prettier-config-transcendence",
+  "version": "1.0.0",
+  "description": "prettier config for transcendence",
+  "main": ".prettierrc.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "scarf005",
+  "license": "ISC"
+}
