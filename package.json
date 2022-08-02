@@ -1,8 +1,12 @@
 {
   "name": "@scarf005/prettier-config-transcendence",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "prettier config for transcendence",
   "main": ".prettierrc.json",
+  "publishConfig": {
+    "@scarf005:registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
